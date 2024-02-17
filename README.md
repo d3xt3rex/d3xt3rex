@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 
-<img src="https://github-readme-stats.vercel.app/api?username=d3xt3rex&show_icons=true&theme=dark" width="400">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d3xt3rex&theme=midnight-purple)](https://git.io/streak-stats)
